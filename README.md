@@ -1,7 +1,9 @@
 # Amazon-Clone-using-CSS-HTML-Javascript
 • Designed and constructed a responsive e-commerce website using HTML5, CSS3, and JavaScript (using jQuery for
 enhanced functionality).
+
 • Implemented a scalable, version-controlled UI
+
 • Tech Stack -HTML, CSS, JS, Agile/Scrum, Responsive Web Design, Cross-Platform Design, Github
 
 ![Screenshot 2024-08-12 153902](https://github.com/user-attachments/assets/f7f02bfd-8d9e-41d5-aadc-cd5e15beb12f)
